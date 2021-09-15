@@ -1,0 +1,23 @@
+{
+  "name": "aplicacaonodeci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielAugustoFerreiraMaia/AplicacaoNodeCI.git"
+  },
+  "keywords": [
+    "Node",
+    "Teste"
+  ],
+  "author": "Gabriel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielAugustoFerreiraMaia/AplicacaoNodeCI/issues"
+  },
+  "homepage": "https://github.com/GabrielAugustoFerreiraMaia/AplicacaoNodeCI#readme"
+}
